@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 const cheerio = require("cheerio");
-const Epub = require("epub-gen");
 const { EPub } = require("@lesjoursfr/html-to-epub");
 
 const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
