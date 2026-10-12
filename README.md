@@ -17,7 +17,7 @@ node wtc.js <epub_title> <epub_author> <chapter_links_file>
 ```
 Example:
 ```bash
-node generate_epub.js "Re:Zero - Arc 7" "Witch Cult Translations" ./data/arc7.txt
+node wtc.js "Re:Zero - Arc 7" "Witch Cult Translations" ./data/arc7.txt
 ```
 This will generate an EPUB file reading the urls from the file `./data/arc7.txt`.
 The generated epub will be in the `out` folder.
