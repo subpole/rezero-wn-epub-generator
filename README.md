@@ -19,7 +19,7 @@ Example:
 ```bash
 node generate_epub.js "Re:Zero - Arc 7" "Witch Cult Translations" ./data/arc7.txt
 ```
-This will generate an epub called `Re:Zero - Arc 7" "Witch Cult Translations.epub`, reading the urls from the file `./data/arc7.txt`.
+This will generate an EPUB file reading the urls from the file `./data/arc7.txt`.
 The generated epub will be in the `out` folder.
 
 You can use the list of urls in the `data` folder or generate your own.
