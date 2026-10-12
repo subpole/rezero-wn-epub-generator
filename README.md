@@ -2,8 +2,8 @@
 Nodejs script that fetches and parses HTML from a list of url and generates en EPUB file. Every url is chapter in EPUB.
 
 # Requirements
-- NodeJS: v22+
-- npm: 10+
+- Node.js v22 or later
+- npm v10 or later
 
 # Depedencies
 Install dependencies with:
