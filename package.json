@@ -1,0 +1,17 @@
+{
+  "name": "wtc_epub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "html_to_epub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lesjoursfr/html-to-epub": "^6.2.1",
+    "cheerio": "^1.2.0",
+    "epub-gen": "^0.1.0"
+  }
+}
