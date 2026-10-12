@@ -32,4 +32,4 @@ I created this script because other compilations of the WN are outdated, if WTC 
 
 
 # Contact
-If you have any problem with the script you can contact me via Twitter: [https://x.com/LordPoles](@LordPoles)
+If you have any problem with the script you can contact me via Twitter: [@LordPoles](https://x.com/LordPoles)
